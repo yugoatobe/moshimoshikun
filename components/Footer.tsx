@@ -12,7 +12,7 @@ const Footer = () => {
         <span className="px-3">Deploy</span>
       </a> */}
       <div className="ml-auto flex flex-row items-center">
-        <span className="mr-1">Airion株式会社</span>
+        <span className="mr-1"></span>
       </div>
     </footer>
   );
